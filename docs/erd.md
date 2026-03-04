@@ -17,6 +17,7 @@ string email
 string firstName
 string lastName
 string phoneNumber
+boolean isActive
 datetime createdAt
 }
 
